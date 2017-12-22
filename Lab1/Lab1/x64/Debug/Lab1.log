@@ -1,0 +1,4 @@
+﻿  Alphabet.cpp
+c:\users\devii\documents\visual studio 2015\projects\lab1\lab1\alphabet.cpp(442): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab1.vcxproj -> C:\Users\devii\documents\visual studio 2015\Projects\Lab1\x64\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\devii\documents\visual studio 2015\Projects\Lab1\x64\Debug\Lab1.pdb (Full PDB)
